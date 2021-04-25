@@ -1,11 +1,16 @@
 _repo: Ben-The-Trapper-The-Mountain-Demon_65087
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65087-h/images/cover.jpg
 creator:
   author:
     agent_name: Carson, Lewis W.
     gutenberg_agent_id: '53178'
     url: http://www.gutenberg.org/2009/agents/53178
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65087#Ben-The-Trapper-The-Mountain-Demon
 gutenberg_issued: '2021-04-15'
 gutenberg_type: Text
 identifiers:
